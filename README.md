@@ -1,11 +1,11 @@
 # :factory: pagila-data-generation :movie_camera:
 
-A set of SQL scripts for random data generation for the Pagila [database](https://github.com/devrimgunduz/pagila).
+A set of SQL scripts for random data generation for the [Pagila](https://github.com/devrimgunduz/pagila) database.
 
 
 ## Purpose
 
-We realy like Pagila's advanced DB schema and high quality data. But the largest Pagila's tables contain only around 16,000 rows. But sometimes we need more (much more) so we made this set of SQL-scripts (based on an amazing extension [PostgreSQL Faker](https://gitlab.com/dalibo/postgresql_faker)) to generate a huge number of rows.
+We realy like Pagila's advanced DB schema and high quality data. But the largest Pagila's tables contain only around 16,000 rows. But sometimes we need more (much more) so we have made this set of SQL-scripts (based on PostgreSQL magic and an amazing [PostgreSQL Faker](https://gitlab.com/dalibo/postgresql_faker) extension) to generate a huge number of rows.
 
 
 ## Current status
