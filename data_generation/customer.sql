@@ -9,4 +9,4 @@ select store_id
              , s.store_id
           from store s tablesample bernoulli(1)
          cross join address a tablesample bernoulli(1)
-         limit 50000) s;
+         limit 500000) s;
