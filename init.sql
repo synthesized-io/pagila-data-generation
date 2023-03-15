@@ -12,31 +12,31 @@ select faker.faker(array['en_US']);
 \timing
 
 \echo Generate data for "country" table ...
-\i /home/data_generation/country.sql
+\i /home/sql/country.sql
 
 \echo Generate data for "language" table ...
-\i /home/data_generation/language.sql
+\i /home/sql/language.sql
 
 \echo Generate data for "city" table ...
-\i /home/data_generation/city.sql
+\i /home/sql/city.sql
 
 \echo Generate data for "address" table ...
-\i /home/data_generation/address.sql
+\i /home/sql/address.sql
 
 \echo Generate data for "store" table ...
-\i /home/data_generation/store.sql
+\i /home/sql/store.sql
 
 \echo Generate data for "staff" table ...
-\i /home/data_generation/staff.sql
+\i /home/sql/staff.sql
 
 \echo Generate data for "customer" table ...
-\i /home/data_generation/customer.sql
+\i /home/sql/customer.sql
 
 \echo Generate data for "film" table ...
-\i /home/data_generation/film.sql
+\i /home/sql/film.sql
 
 \echo Generate data for "inventory" table ...
-\i /home/data_generation/inventory.sql
+\i /home/sql/inventory.sql
 
 \echo Generate data for "rental" table ...
-\i /home/data_generation/rental.sql
+\i /home/sql/rental.sql
