@@ -5,12 +5,9 @@ A set of SQL scripts for random data generation for the [Pagila](https://github.
 
 ## Purpose
 
-We realy like Pagila's advanced DB schema and high quality data. But the largest Pagila's tables contain only around 16,000 rows. But sometimes we need more (much more) so we have made this set of SQL-scripts (based on PostgreSQL magic and an amazing [PostgreSQL Faker](https://gitlab.com/dalibo/postgresql_faker) extension) to generate a huge number of rows.
+We really like Pagila’s advanced database schema and high-quality data. However, the largest Pagila tables contain only around 16,000 rows. But sometimes, we need more (much more), so we created this set of SQL-scripts (based on PostgreSQL magic and the amazing [PostgreSQL Faker](https://gitlab.com/dalibo/postgresql_faker) extension) to generate a huge number of rows.
 
-
-## Current status
-
-:warning: This experimental project is in early development phase. If you have any ideas, feel free to create a [PR](https://github.com/mgramin/pagila-data-generation/pulls) or open an [issue](https://github.com/mgramin/pagila-data-generation/issues).
+If you have any ideas, feel free to create a [PR](https://github.com/mgramin/pagila-data-generation/pulls) or open an [issue](https://github.com/mgramin/pagila-data-generation/issues).
 
 
 ## Run data generation
