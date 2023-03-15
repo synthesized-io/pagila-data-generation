@@ -56,3 +56,8 @@ Generate data for "rental" table ...
 INSERT 0 1000000
 Time: 12943.481 ms (00:12.943)
 ```
+
+
+## SQL scripts conventions
+
+- Try to keep to [axis](https://gramin.pro/posts/rivers-and-axis) when formatting
